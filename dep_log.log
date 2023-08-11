@@ -1,0 +1,238 @@
+INFO:root:UserName:  time: 2023-08-11 04:39:22.088136 ID:119185 response: https://online.hcsbk.kz/Content/css/FontAwesome/webfonts/fa-solid-900.woff2 - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 04:39:46.367184 ID:119186 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:40:11.354832 ID:119187 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:40:36.610112 ID:119188 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:41:02.022501 ID:119189 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:41:27.160221 ID:119190 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:41:52.016877 ID:119191 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:42:17.506399 ID:119192 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:42:42.684280 ID:119193 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:43:08.496483 ID:119194 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 04:43:19.580775 ID:119194 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 04:43:34.067728 ID:119195 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:43:59.701416 ID:119196 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:44:24.884043 ID:119197 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:44:49.900099 ID:119198 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:45:14.986535 ID:119199 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 04:45:26.076200 ID:119199 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 04:45:40.334253 ID:119200 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:46:05.441755 ID:119201 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:46:30.566902 ID:119202 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 04:46:41.976561 ID:119202 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 04:46:56.442840 ID:119203 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 04:47:06.291210 ID:119203 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 04:47:20.793911 ID:119204 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:47:46.422010 ID:119205 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:48:11.587428 ID:119206 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:48:37.180230 ID:119207 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:49:02.723261 ID:119208 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:49:28.103089 ID:119209 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:49:53.399732 ID:119210 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:50:18.704781 ID:119211 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:50:44.388915 ID:119212 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:51:09.910507 ID:119213 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 04:51:21.312658 ID:119213 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 04:51:35.598191 ID:119214 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:52:00.976709 ID:119215 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:52:26.279277 ID:119216 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:52:51.580178 ID:119217 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:53:16.709761 ID:119218 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:53:41.895805 ID:119219 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:54:07.251790 ID:119220 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:54:32.834632 ID:119221 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 04:54:43.491838 ID:119221 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 04:54:57.959245 ID:119222 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:55:23.443065 ID:119223 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 04:55:34.128919 ID:119223 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 04:55:48.968049 ID:119224 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:56:14.547804 ID:119225 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:56:39.506983 ID:119226 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:57:05.237546 ID:119227 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:57:30.624051 ID:119228 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:57:56.114529 ID:119229 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 04:58:08.008437 ID:119229 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 04:58:22.455639 ID:119230 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:58:47.851033 ID:119231 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:59:12.913711 ID:119232 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 04:59:38.447568 ID:119233 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:00:03.693158 ID:119234 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:00:29.218997 ID:119235 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:00:54.707738 ID:119236 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:01:04.443500 ID:119236 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:01:19.517976 ID:119237 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:01:44.564041 ID:119238 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:02:10.057634 ID:119239 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:02:35.467155 ID:119240 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:03:01.129513 ID:119241 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:03:10.835764 ID:119241 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:03:25.469370 ID:119242 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:03:35.722940 ID:119242 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:03:50.059709 ID:119243 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:04:00.886848 ID:119243 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:04:15.507801 ID:119244 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:04:41.078247 ID:119245 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:04:51.785441 ID:119245 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:05:06.263444 ID:119246 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:05:31.344797 ID:119247 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:05:57.130364 ID:119248 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:06:22.371108 ID:119249 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:06:47.478871 ID:119250 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:07:13.346546 ID:119251 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:07:24.172929 ID:119251 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:07:38.919439 ID:119252 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:07:49.450877 ID:119252 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:08:04.210129 ID:119253 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:08:14.565073 ID:119253 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:08:29.194878 ID:119254 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:08:54.357167 ID:119255 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:09:04.428385 ID:119255 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:09:19.261843 ID:119256 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:09:44.952335 ID:119257 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:10:10.447289 ID:119258 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:10:21.130187 ID:119258 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:10:36.166255 ID:119259 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:10:46.726416 ID:119259 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:11:01.455424 ID:119260 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:11:12.958644 ID:119260 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:11:28.075362 ID:119261 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:11:53.811078 ID:119262 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:12:19.722647 ID:119263 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:12:45.888636 ID:119264 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:13:11.806629 ID:119265 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:13:36.804670 ID:119266 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:14:02.262792 ID:119267 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:14:27.794742 ID:119268 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:14:52.832590 ID:119269 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:15:17.989899 ID:119270 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:15:43.260371 ID:119271 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:16:09.013412 ID:119272 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:16:34.580362 ID:119273 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:16:59.777866 ID:119274 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:17:24.892817 ID:119275 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:17:35.495075 ID:119275 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:17:50.266214 ID:119276 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:18:00.748309 ID:119276 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:18:15.404171 ID:119277 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:18:40.649220 ID:119278 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:19:05.667441 ID:119279 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:19:31.015973 ID:119280 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:19:41.718211 ID:119280 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:19:56.057438 ID:119281 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:20:21.200143 ID:119282 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:20:46.469163 ID:119283 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:21:11.604738 ID:119284 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:21:36.797602 ID:119285 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:22:01.911991 ID:119286 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:22:12.677466 ID:119286 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:22:27.238658 ID:119287 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:22:52.540658 ID:119288 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:23:17.475987 ID:119289 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:23:43.388130 ID:119290 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:24:08.810696 ID:119291 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:24:19.691121 ID:119291 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:24:34.232132 ID:119292 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:24:45.224950 ID:119292 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:24:59.961436 ID:119293 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:25:25.247043 ID:119294 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:25:50.622254 ID:119295 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:26:15.706914 ID:119296 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:26:40.561872 ID:119297 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:27:05.999523 ID:119298 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:27:31.609115 ID:119299 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:27:56.877117 ID:119300 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:28:07.563376 ID:119300 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:28:22.502254 ID:119301 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:28:47.782863 ID:119302 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:29:13.344499 ID:119303 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:29:38.953411 ID:119304 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:30:04.050707 ID:119305 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:30:29.862510 ID:119306 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:30:55.349433 ID:119307 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:31:20.325401 ID:119308 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:31:44.957006 ID:119309 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:32:09.571961 ID:119310 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:32:34.259648 ID:119311 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:32:59.153514 ID:119312 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:33:23.770967 ID:119313 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:33:48.503482 ID:119314 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:34:13.293234 ID:119315 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:34:22.797455 ID:119315 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:34:36.831149 ID:119316 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:35:01.446152 ID:119317 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:35:26.110130 ID:119318 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:35:35.847948 ID:119318 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:35:49.989300 ID:119319 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:36:14.663315 ID:119320 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:36:39.273859 ID:119321 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:37:03.914941 ID:119322 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:37:28.565113 ID:119323 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:37:53.181075 ID:119324 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:38:02.529721 ID:119324 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:38:16.564812 ID:119325 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:38:41.261841 ID:119326 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:39:05.972568 ID:119327 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:39:31.023076 ID:119328 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:39:55.706630 ID:119329 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:40:05.410144 ID:119329 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:40:19.444668 ID:119330 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:40:28.435962 ID:119330 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:40:42.442892 ID:119331 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:40:51.445713 ID:119331 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:41:05.508360 ID:119332 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:41:15.055628 ID:119332 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:41:29.091535 ID:119333 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:41:38.375695 ID:119333 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:41:52.396457 ID:119334 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:42:17.037145 ID:119335 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:42:41.706379 ID:119336 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:43:06.441319 ID:119337 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:43:31.292603 ID:119338 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:43:56.074270 ID:119339 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:44:06.604041 ID:119339 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:44:20.675388 ID:119340 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:44:45.334001 ID:119341 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:45:10.005364 ID:119342 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:45:34.694264 ID:119343 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:46:06.388928 ID:119344 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:46:31.049580 ID:119345 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2615:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:46:56.102301 ID:119346 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:47:06.401037 ID:119346 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:47:20.462113 ID:119347 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:47:45.091303 ID:119348 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:48:09.808595 ID:119349 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:48:19.728475 ID:119349 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:48:33.798954 ID:119350 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:48:43.378925 ID:119350 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:48:57.447672 ID:119351 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:49:22.140465 ID:119352 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName:  time: 2023-08-11 05:49:46.822508 ID:119353 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:49:57.291780 ID:119353 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:50:11.428889 ID:119354 NO RESPONSE
+INFO:root:UserName:  time: 2023-08-11 05:50:21.020327 ID:119354 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName:  time: 2023-08-11 05:50:35.091272 ID:119355 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName: Azamat time: 2023-08-11 05:51:19.186384 ID:119185 response: https://online.hcsbk.kz/Content/css/FontAwesome/webfonts/fa-solid-900.woff2 - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName: Azamat time: 2023-08-11 05:51:43.291327 ID:119186 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName: Azamat time: 2023-08-11 05:52:27.361333 ID:119185 response: https://online.hcsbk.kz/Content/css/FontAwesome/webfonts/fa-solid-900.woff2 - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName: Azamat time: 2023-08-11 05:55:06.919725 ID:119185 response: https://online.hcsbk.kz/Content/css/FontAwesome/webfonts/fa-solid-900.woff2 - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName: Azamat time: 2023-08-11 05:55:30.983900 ID:119186 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName: Azamat time: 2023-08-11 05:55:55.738600 ID:119187 NO RESPONSE
+INFO:root:UserName: Azamat time: 2023-08-11 05:56:05.628275 ID:119187 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName: Azamat time: 2023-08-11 05:56:19.718588 ID:119188 NO RESPONSE
+INFO:root:UserName: Azamat time: 2023-08-11 05:56:30.326814 ID:119188 response: https://online.hcsbk.kz/Content/Bootstrap-4.2.1-dist/css/_card.scss - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+INFO:root:UserName: Azamat time: 2023-08-11 05:56:44.355332 ID:119189 response: https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2605:15 Uncaught ReferenceError: list is not defined, status:200 
+INFO:root:UserName: Azamat time: 2023-08-11 06:03:45.852049 ID:119185 response: https://online.hcsbk.kz/Content/css/FontAwesome/webfonts/fa-solid-900.woff2 - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C5D063BD90>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/c3b2b453d14ef4184f8019ff13ab0128/execute/sync
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C5D0A76B50>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/c3b2b453d14ef4184f8019ff13ab0128/execute/sync
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C5D0A7C690>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/c3b2b453d14ef4184f8019ff13ab0128/execute/sync
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C5D0A7E010>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/c3b2b453d14ef4184f8019ff13ab0128/refresh
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C5D0A7EA50>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/c3b2b453d14ef4184f8019ff13ab0128/refresh
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C5D0A7F3D0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/c3b2b453d14ef4184f8019ff13ab0128/refresh
+INFO:root:UserName: Azamat time: 2023-08-11 06:05:04.242227 ID:119185 response: https://online.hcsbk.kz/Content/css/FontAwesome/webfonts/fa-solid-900.woff2 - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002385F9477D0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/149534719b42180b74539160602c42ba/url
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002385F946A50>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/149534719b42180b74539160602c42ba/url
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002385F94C750>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/149534719b42180b74539160602c42ba/url
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002385F945C10>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/149534719b42180b74539160602c42ba/window
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002385F94DED0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/149534719b42180b74539160602c42ba/window
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002385F9479D0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/149534719b42180b74539160602c42ba/window
+INFO:root:UserName: Azamat time: 2023-08-11 06:14:27.346736 ID:119185 response: https://online.hcsbk.kz/Content/css/FontAwesome/webfonts/fa-solid-900.woff2 - Failed to load resource: the server responded with a status of 404 (Not Found), status:404 
