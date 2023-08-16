@@ -88,11 +88,10 @@ def GetVal(htmlCode):
 
     return {'sum_ust': sum_ust, 'perepl': perepl}
 
-DIR_CONDITION = {'FOR':True,'BACK':False}
 def find_dep(driver = driver, coef=0, akkName='', email='', MIN_DEP_ID=0):
     global soup
     DEP_IDS = {'cur':MIN_DEP_ID + 1,'min':MIN_DEP_ID, 'max':MIN_DEP_ID+300}
-
+    DIR_CONDITION = {'FOR':True,'BACK':False}
 
     while True:
 
