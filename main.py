@@ -88,11 +88,13 @@ def GetVal(htmlCode):
 
     return {'sum_ust': sum_ust, 'perepl': perepl}
 
-def find_dep(driver = driver, coef=0, akkName='', email='', MIN_DEP_ID=0):
+def find_dep(driver = driver, coef=0, akkName='', email='', MIN_DEP_ID=0,username = ''):
     global soup
     DEP_IDS = {'cur':MIN_DEP_ID + 1,'min':MIN_DEP_ID, 'max':MIN_DEP_ID+300}
     DIR_CONDITION = {'FOR':True,'BACK':False}
-
+    with open('file.txt', 'w', encoding="utf-8") as file:
+        file.write(
+            f"[STARTED] Аккаунт: {akkName} USERNAME:{username}  ")
     while True:
 
             #   ЗАПРОС ПО ID  В КОНСОЛИ
@@ -147,7 +149,10 @@ def find_dep(driver = driver, coef=0, akkName='', email='', MIN_DEP_ID=0):
 
                 #   ПРОВЕРКА КОЭФФИЦЕНТА
                 if (abs(coef - cef) == cef):
-                    driver.save_screenshot(f"{DEP_IDS}.png")
+
+
+                    with open('file.txt', 'w', encoding="utf-8") as file:
+                        file.write(f"[{datetime}] Аккаунт: {akkName} USERNAME:{username} - Нашли предложение с результатом {cef} Сумма уступка: {vals['sum_ust']} Переплата: {vals['perepl']} ")
 
                     try:
                         driver.find_element(By.XPATH, '//*[@id="Agree"]').click()
@@ -199,7 +204,7 @@ def parser(username = '',password = '', coef=0, akkName='',email='',MIN_DEP_ID=0
         print(username)
         login_func(username=username, password=password)
         time.sleep(5)
-        find_dep(coef=coef, akkName=akkName, email=email,MIN_DEP_ID=MIN_DEP_ID)
+        find_dep(coef=coef, akkName=akkName, email=email,MIN_DEP_ID=MIN_DEP_ID, username=username)
     except:
         print("ERORR")
     finally:
