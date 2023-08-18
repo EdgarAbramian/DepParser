@@ -1,0 +1,265 @@
+INFO:root:
+NEW SESSION CREATED AT 2023-08-18 03:34:29.090303
+
+INFO:root:UserName: ibrahim time: 2023-08-18 03:34:41.224810 ID:120510 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2608:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692315279238}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:34:44.329853 ID:120511 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2608:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692315282465}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:34:47.424089 ID:120512 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2608:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692315285467}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:34:50.539234 ID:120513 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2608:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692315288609}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:34:53.643767 ID:120514 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2608:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692315291679}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:34:56.760205 ID:120515 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2608:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692315294854}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:34:59.883649 ID:120516 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2608:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692315297901}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:35:03.034443 ID:120517 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2608:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692315301022}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:35:06.133961 ID:120518 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2608:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692315304171}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:35:09.237054 ID:120519 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2608:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692315307272}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:35:12.384490 ID:120518 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:35:15.484353 ID:120517 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:35:18.602403 ID:120516 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:35:21.708089 ID:120515 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:35:24.813201 ID:120514 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:35:27.908037 ID:120513 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:35:31.036558 ID:120512 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:35:34.150440 ID:120511 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:35:37.261174 ID:120510 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:35:40.363406 ID:120509 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2608:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692315338401}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:35:43.472162 ID:120510 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:35:46.586429 ID:120511 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:35:49.681133 ID:120512 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:35:52.814035 ID:120513 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:35:55.904742 ID:120514 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:35:59.001613 ID:120515 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:36:02.121308 ID:120516 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:36:05.229275 ID:120517 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:36:08.342007 ID:120518 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:36:11.540903 ID:120519 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:36:14.643795 ID:120518 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:36:17.741650 ID:120517 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:36:20.858364 ID:120516 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:36:23.968047 ID:120515 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:36:27.061000 ID:120514 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:36:30.152880 ID:120513 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:36:33.250358 ID:120512 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:36:36.342123 ID:120511 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:36:39.423331 ID:120510 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:36:42.530861 ID:120509 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:36:45.631185 ID:120510 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:36:48.732454 ID:120511 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:36:51.834368 ID:120512 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:36:54.934519 ID:120513 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:36:58.042927 ID:120514 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:37:01.158047 ID:120515 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:37:04.255805 ID:120516 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:37:07.353803 ID:120517 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:37:10.454751 ID:120518 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:37:13.564166 ID:120519 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:37:16.659370 ID:120518 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:37:19.763727 ID:120517 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:37:22.915302 ID:120516 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:37:26.009157 ID:120515 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:37:29.107726 ID:120514 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:37:32.213881 ID:120513 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:37:35.310696 ID:120512 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:37:38.407745 ID:120511 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:37:41.498139 ID:120510 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:37:44.600432 ID:120509 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:37:47.695058 ID:120510 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:37:50.785542 ID:120511 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:37:53.883792 ID:120512 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:37:56.982242 ID:120513 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:38:00.110642 ID:120514 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:38:03.399883 ID:120515 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:38:06.526352 ID:120516 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:38:09.619669 ID:120517 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:38:12.714213 ID:120518 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:38:15.812903 ID:120519 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:38:18.909627 ID:120518 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:38:22.050631 ID:120517 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:38:25.148812 ID:120516 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:38:28.244426 ID:120515 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:38:31.440673 ID:120514 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:38:34.539486 ID:120513 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:38:37.645782 ID:120512 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:38:40.740526 ID:120511 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:38:43.833317 ID:120510 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:38:46.920250 ID:120509 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:38:50.018870 ID:120510 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:38:53.127295 ID:120511 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:38:56.244901 ID:120512 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:38:59.349952 ID:120513 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:39:02.445280 ID:120514 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:39:05.541350 ID:120515 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:39:08.642590 ID:120516 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:39:11.740891 ID:120517 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:39:14.847529 ID:120518 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:39:17.989602 ID:120519 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:39:21.083679 ID:120518 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:39:24.240199 ID:120517 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:39:27.339622 ID:120516 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:39:30.445469 ID:120515 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:39:33.607183 ID:120514 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:39:36.706034 ID:120513 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:39:39.795971 ID:120512 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:39:42.957776 ID:120511 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:39:46.058526 ID:120510 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:39:49.147093 ID:120509 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:39:52.237432 ID:120510 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:39:55.332433 ID:120511 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:39:58.434201 ID:120512 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:40:01.545622 ID:120513 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:40:04.653157 ID:120514 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:40:07.762677 ID:120515 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:40:10.854357 ID:120516 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:40:13.945775 ID:120517 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:40:17.040748 ID:120518 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:40:20.138570 ID:120519 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:40:23.232822 ID:120518 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:40:26.334837 ID:120517 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:40:29.424993 ID:120516 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:40:32.524929 ID:120515 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:40:35.631913 ID:120514 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:40:38.737321 ID:120513 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:40:41.843499 ID:120512 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:40:44.944127 ID:120511 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:40:48.061684 ID:120510 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:40:51.156573 ID:120509 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:40:54.325330 ID:120510 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:40:57.422865 ID:120511 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:41:00.525130 ID:120512 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:41:03.621506 ID:120513 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:41:06.714843 ID:120514 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:41:09.809170 ID:120515 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:41:12.903964 ID:120516 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:41:16.001453 ID:120517 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:41:19.097276 ID:120518 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:41:22.196017 ID:120519 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:41:25.293296 ID:120518 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:41:28.384476 ID:120517 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:41:31.481492 ID:120516 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:41:34.574984 ID:120515 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:41:37.706902 ID:120514 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:41:40.800326 ID:120513 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:41:43.899323 ID:120512 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:41:46.994787 ID:120511 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:41:50.088634 ID:120510 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:41:53.182428 ID:120509 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:41:56.278978 ID:120510 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:41:59.376738 ID:120511 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:42:02.745305 ID:120512 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:42:05.855269 ID:120513 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:42:08.949550 ID:120514 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:42:12.050003 ID:120515 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:42:15.150210 ID:120516 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:42:18.249869 ID:120517 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:42:21.346842 ID:120518 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:42:24.437881 ID:120519 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:42:27.612483 ID:120518 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:42:30.715398 ID:120517 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:42:33.831427 ID:120516 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:42:36.922477 ID:120515 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:42:40.021589 ID:120514 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:42:43.118898 ID:120513 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:42:46.216913 ID:120512 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:42:49.324880 ID:120511 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:42:52.420505 ID:120510 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:42:55.519643 ID:120509 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:42:58.611572 ID:120510 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:43:01.719932 ID:120511 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:43:04.840671 ID:120512 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:43:07.935442 ID:120513 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:43:11.028234 ID:120514 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:43:14.211178 ID:120515 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:43:17.306604 ID:120516 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:43:20.396829 ID:120517 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:43:23.489111 ID:120518 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:43:26.586563 ID:120519 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:43:29.675302 ID:120518 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:43:32.764698 ID:120517 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:43:35.853851 ID:120516 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:43:38.943188 ID:120515 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:43:42.035275 ID:120514 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:43:45.126725 ID:120513 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:43:48.225222 ID:120512 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:43:51.322239 ID:120511 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:43:54.411271 ID:120510 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:43:57.513343 ID:120509 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:44:00.644743 ID:120510 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:44:03.746618 ID:120511 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:44:06.912311 ID:120512 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:44:10.070955 ID:120513 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:44:13.178831 ID:120514 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:44:16.269416 ID:120515 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:44:18.088769 PAGE IS REFRESHED
+INFO:root:UserName: ibrahim time: 2023-08-18 03:44:21.556730 ID:120516 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 58 Refused to load the script \'https://cdn.appdynamics.com/adrum-ext.bf71fe39e20d2aa8ad53d37ab6377745.js\' because it violates the following Content Security Policy directive: "script-src-elem \'self\' \'unsafe-inline\'                                     https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js                                    https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js                                    https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js                                    https://api-maps.yandex.ru/                                    https://www.google.com/                                    https://www.gstatic.com/".\n', 'source': 'security', 'timestamp': 1692315858087}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:44:24.656633 ID:120517 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:44:27.821642 ID:120518 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:44:30.928922 ID:120519 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:44:34.043951 ID:120518 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:44:37.152344 ID:120517 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:44:40.267932 ID:120516 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2618:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692315880251}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:44:43.363112 ID:120515 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2618:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692315883346}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:44:46.493525 ID:120514 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2618:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692315886476}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:44:49.596395 ID:120513 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2618:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692315889568}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:44:52.734814 ID:120512 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2618:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692315891758}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:44:55.846308 ID:120511 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2618:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692315894842}
+INFO:root:
+NEW SESSION CREATED AT 2023-08-18 03:56:00.979141
+
+INFO:root:UserName: ibrahim time: 2023-08-18 03:56:13.101769 ID:120510 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2609:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692316571317}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:56:16.209801 ID:120511 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2609:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692316574237}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:56:19.307383 ID:120512 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2609:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692316577344}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:56:22.414856 ID:120513 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2609:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692316580519}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:56:25.521823 ID:120514 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2609:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692316583592}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:56:28.652500 ID:120515 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2609:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692316586675}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:56:31.788850 ID:120516 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2609:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692316589840}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:56:34.896363 ID:120517 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2609:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692316592944}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:56:38.006901 ID:120518 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2609:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692316596089}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:56:41.107566 ID:120519 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2609:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692316599168}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:56:44.269013 ID:120518 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:56:47.412180 ID:120517 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:56:50.548210 ID:120516 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:56:53.698366 ID:120515 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:56:56.842703 ID:120514 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:56:59.977825 ID:120513 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:57:03.096745 ID:120512 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 3372:392 Uncaught ReferenceError: timeoutHandle is not defined', 'source': 'javascript', 'timestamp': 1692316621449}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:57:06.246608 ID:120511 NO RESPONSE
+WARNING:root:UserName: ibrahim time: 2023-08-18 03:57:07.955350 ID:120510 response: Script is not executed (ID is skipped)
+INFO:root:UserName: ibrahim time: 2023-08-18 03:57:10.049376 ID:120510 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 58 Refused to load the script \'https://cdn.appdynamics.com/adrum-ext.bf71fe39e20d2aa8ad53d37ab6377745.js\' because it violates the following Content Security Policy directive: "script-src-elem \'self\' \'unsafe-inline\'                                     https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js                                    https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js                                    https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js                                    https://api-maps.yandex.ru/                                    https://www.google.com/                                    https://www.gstatic.com/".\n', 'source': 'security', 'timestamp': 1692316627938}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:57:13.239847 ID:120509 response: {'level': 'SEVERE', 'message': 'https://online.hcsbk.kz/AuctionLotFindDeposit/Find 2608:15 Uncaught ReferenceError: list is not defined', 'source': 'javascript', 'timestamp': 1692316631200}
+INFO:root:UserName: ibrahim time: 2023-08-18 03:57:16.354722 ID:120510 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:57:19.497762 ID:120511 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:57:22.619285 ID:120512 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:57:25.737642 ID:120513 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:57:28.871745 ID:120514 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:57:31.990687 ID:120515 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:57:35.104940 ID:120516 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:57:38.245370 ID:120517 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:57:41.444309 ID:120518 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:57:44.569778 ID:120519 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:57:47.684397 ID:120518 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:57:50.833442 ID:120517 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:57:53.953652 ID:120516 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:57:57.076773 ID:120515 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:58:00.197656 ID:120514 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:58:03.327497 ID:120513 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:58:06.518904 ID:120512 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:58:09.644993 ID:120511 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:58:12.780861 ID:120510 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:58:15.997415 ID:120509 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:58:19.183108 ID:120510 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:58:22.352002 ID:120511 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:58:25.490938 ID:120512 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:58:28.687877 ID:120513 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:58:31.808034 ID:120514 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:58:34.926296 ID:120515 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:58:38.041281 ID:120516 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:58:41.156586 ID:120517 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:58:44.273255 ID:120518 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:58:47.387778 ID:120519 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:58:50.502093 ID:120518 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:58:53.697547 ID:120517 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:58:56.810271 ID:120516 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:58:59.929190 ID:120515 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:59:03.044510 ID:120514 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:59:06.167302 ID:120513 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:59:09.284059 ID:120512 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:59:12.413098 ID:120511 NO RESPONSE
+INFO:root:UserName: ibrahim time: 2023-08-18 03:59:15.527366 ID:120510 NO RESPONSE

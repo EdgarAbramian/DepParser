@@ -1,0 +1,1 @@
+D:\PycharmProject\pythonProject1\dist\file.txt
