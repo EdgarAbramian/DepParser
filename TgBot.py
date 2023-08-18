@@ -1,4 +1,5 @@
 import time
+from math import ceil
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -74,8 +75,23 @@ from bs4 import BeautifulSoup
 #     winfile.write(f'Кэф: {cef}\n')
 
 
-
-
+# Accumulation = lambda ustup, perepl: ustup - perepl
+#
+# Commission = lambda accum: round(accum * 0.005)
+#
+# Reward = lambda perepl, commission: perepl - commission
+#
+# Coeff = lambda accum, reward: ceil(accum / reward)
+#
+# accum = Accumulation(1754521,65034)
+# comm = Commission(accum)
+# rew = Reward(65034, comm)
+# cef = Coeff(accum,rew)
+#
+# print(f'accum: {accum}')
+# print(f'comm: {comm}')
+# print(f'rew: {rew}')
+# print(f'cef: {cef}')
 
 
 
@@ -83,23 +99,49 @@ from bs4 import BeautifulSoup
 
 import telebot
 
-BOT_TOKEN = '6621936316:AAHBQEWd636A6G4GXRNwNY0WJQ-kGtTfi3g'
+PATH = ''
+
+with open('path.txt','r') as file:
+    PATH = str(file.read())
+
+BOT_TOKEN = ''
+
+with open('token.txt','r') as file:
+    BOT_TOKEN = str(file.read())
+
 
 bot = telebot.TeleBot(BOT_TOKEN)
 TEXT = ''
 @bot.message_handler(commands=['start'])
 def start_message(message):
+    bot.send_message(message.chat.id, "BOT IS STARTED")
     while True:
 
-        with open('file.txt','r',encoding="utf-8") as file:
+        with open(PATH,'r',encoding="utf-8") as file:
             TEXT = file.read()
 
         if TEXT:
             bot.send_message(message.chat.id, f"{TEXT}")
 
-            with open('file.txt','w',encoding="utf-8") as file:
+            with open(PATH,'w',encoding="utf-8") as file:
                 file.write(f"")
 
 bot.infinity_polling()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
